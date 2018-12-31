@@ -1,3 +1,1 @@
-List(1, 2, 3).tail
-List(1).tail
-List().tail
+Nil:::List(1):::List(4)
